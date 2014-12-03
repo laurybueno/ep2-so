@@ -19,6 +19,7 @@ public class Leitor implements Ator, Runnable {
 		}
 
 		Thread.sleep(1);
+			
 		
 		
 	}
